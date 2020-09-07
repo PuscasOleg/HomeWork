@@ -14,14 +14,17 @@ public class Ex2_17 {
         arr[1] = in.nextInt();
         System.out.println("Enter third number");
         arr[2] = in.nextInt();
+        int product=arr[0]*arr[1]*arr[2];
+        System.out.println("Product:"+product);
         int sum = IntStream.of(arr).sum();
         System.out.println("Sum:" + sum);
-        OptionalDouble average = IntStream.of(arr).average();
-        System.out.println("Average" + average);
+        int average = sum/arr.length;
+        System.out.println("Average:"+average);
+
         OptionalInt max = IntStream.of(arr).max();
-        System.out.println("Max number" + max);
+        System.out.println("Max number:" + max);
         OptionalInt min = IntStream.of(arr).min();
-        System.out.println("Min number" + min);
+        System.out.println("Min number:" + min);
 
 
     }
