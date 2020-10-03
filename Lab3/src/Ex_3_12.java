@@ -1,5 +1,3 @@
-import java.util.Set;
-
 public class Ex_3_12 {
     public static void main(String[] args) {
 
@@ -13,8 +11,8 @@ public class Ex_3_12 {
         productFirst.setPartNumber("2");
         productFirst.setPrice(15000);
         System.out.println(productFirst.getDescription() + " " + productFirst.getPartNumber() + " " + productFirst.getPrice() + " " + productFirst.getQuantity());
-        double x= productFirst.getInvoiceAmount();
-        System.out.println("Test"+x);
+        double x = productFirst.getInvoiceAmount();
+        System.out.println("Test" + x);
 
 
     }
@@ -45,6 +43,7 @@ class Invoice {
     public String getPartNumber() {
         return partNumber;
     }
+
 
     public void setPartNumber(String partNumber) {
         this.partNumber = partNumber;

@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HomeWork.iml" filepath="$PROJECT_DIR$/.idea/HomeWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HomeWork2.16/HomeWork2.16.iml" filepath="$PROJECT_DIR$/HomeWork2.16/HomeWork2.16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testmodule/testmodule.iml" filepath="$PROJECT_DIR$/testmodule/testmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InProgess/InProgess.iml" filepath="$PROJECT_DIR$/InProgess/InProgess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7/Lab7.iml" filepath="$PROJECT_DIR$/Lab7/Lab7.iml" />
     </modules>
   </component>
 </project>

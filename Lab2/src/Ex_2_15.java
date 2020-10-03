@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HomeWork {
+public class Ex_2_15 {
     public static void main(String[] args) {
         System.out.println("Enter two numbers");
         System.out.println("Enter first number:");

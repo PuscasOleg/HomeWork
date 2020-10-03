@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HomeWork1 {
+public class Ex_2_16 {
     public static void main(String[] args) {
         System.out.println("Enter two numbers");
         System.out.println("Enter first number:");
@@ -17,7 +17,7 @@ public class HomeWork1 {
         int product ;
         double division ;
         sum = number1 + number2;
-        System.out.println("Sum" + sum);
+        System.out.println("Sum: " + sum);
         if (number1 == 0 || number2 == 0) {
             System.out.println("Нельзя делить на ноль");
         } else {
