@@ -5,7 +5,7 @@ Assume that the first value read specifies the number of values to input from th
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
-import java.lang.Math;
+
 
 
 public class Ex_5_11 {
